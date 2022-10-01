@@ -1,0 +1,21 @@
+
+.card{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border: none;
+    animation: dropdown .7s;
+    z-index: 100;
+    position:absolute;
+    top: 50%;
+}
+
+@keyframes dropdown{
+    0%{
+        transform: translateY(-200%);
+    }
+
+    100%{
+        position: sticky;
+        transform: translateY(0%);
+    }
+
+}

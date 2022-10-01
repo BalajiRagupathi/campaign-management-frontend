@@ -1,0 +1,43 @@
+.check {
+    border: 2px solid #38CC77;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.bx {
+    font-size: 100px;
+    color: #6EC72D;
+}
+
+.message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.text {
+    max-width: 90%;
+    margin: auto;
+}
+
+@media (max-width:500px) {
+    .message {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+    }
+    .lead {
+        font-size: 15px;
+    }
+    .para {
+        font-size: 12px;
+    }
+    .bx {
+        font-size: 80px;
+    }
+    .btn {
+        padding: 8px 5px;
+    }
+}

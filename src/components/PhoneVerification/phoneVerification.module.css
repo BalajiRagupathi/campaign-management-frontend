@@ -1,0 +1,60 @@
+.phoneVerification{
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+    width: 40%;
+    margin: 0 auto;
+}
+.button{
+    padding: 10px 50px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    margin-top: 18px;
+    background-color: #FF6666; 
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    transition:  all .2s;
+    font-size: 16px;
+}
+
+.button:hover{
+    transform: scale(0.95);
+    font-size: 14px;
+}
+
+.label{
+    font-size: 14px;
+    position: absolute;
+    pointer-events: none;
+    top: 8px;
+    left: 10px;
+    /* text-transform: uppercase; */
+    background-color: #fff;
+    transition: 0.2s ease all;
+}
+
+.input:focus{
+    outline: none;
+}
+
+.input:focus~.label,
+.input:not(:focus):valid ~ .label {
+    top: -10px;
+    left: 10px;
+    font-size: 13px;
+
+}
+
+
+
+@media(max-width:800px){
+    .phoneVerification{
+        width: 80%;
+    }
+}
+
+
+
+
+
+

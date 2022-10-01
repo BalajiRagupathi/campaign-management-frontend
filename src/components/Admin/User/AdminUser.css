@@ -1,0 +1,63 @@
+/*=== Toggle  ===*/
+.toggle-control {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    font-size: 22px;
+    user-select: none;
+}
+
+.toggle-control input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.toggle-control input:checked~.control {
+    background-color: #1e39d1;
+}
+
+.toggle-control input:checked~.control:after {
+    left: 1.7rem;
+}
+
+.toggle-control .control {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1.5rem;
+    width: 3rem;
+    border-radius: 25px;
+    background-color: darkgray;
+    transition: background-color 0.15s ease-in;
+}
+
+.toggle-control .control:after {
+    content: "";
+    position: absolute;
+    left: 0.25rem;
+    top: 0.23rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 25px;
+    background: white;
+    transition: left 0.15s ease-in;
+}
+
+.overflow_scroll {
+    overflow-x: auto !important;
+}
+
+/*=== Card ===*/
+
+.role-assign-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: space-around;
+    padding: 1rem;
+    width: 15rem;
+    height: 7rem;
+}

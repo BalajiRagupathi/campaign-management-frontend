@@ -1,0 +1,110 @@
+[33m67031ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m7125ca1[m update
+[33mf2bddb6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #10 from codingmart-2021-intern/balaji
+[33mb550356[m updated customer url
+[33med4f613[m Merge pull request #9 from codingmart-2021-intern/balaji
+[33md93b6a4[m updated schedule and header
+[33m5db557a[m updated schedule page
+[33m83f76af[m signup form changed
+[33m13e69d8[m Role assign UI changes
+[33m17f9013[m backend
+[33m2346e36[m Added form changes
+[33mee2d039[m Added Form changes
+[33mb8ea654[m added mobile responsive for metricspage
+[33m246c6a5[m added mobile responsive for metrics page
+[33m1319c63[m changed to mobile responsive
+[33m11c989a[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33me413494[m changed to mobile responsive
+[33m3cc9063[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m001067a[m Home page
+[33m2e2ff7f[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m056f8a7[m changed to mobile responsive
+[33ma318fbe[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m5f73b4a[m Added Not Found Page
+[33mde60b2b[m added mobile responsive for signup and login
+[33m3e0b93a[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m133a51c[m changed to mobile responsive
+[33m4106bdb[m Youtube url generated
+[33m7403350[m Home page changes
+[33m6d4189a[m Home page changes
+[33m52d9981[m autocomplete off
+[33m34007ca[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33m659387b[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33ma6885b3[m metrics page designed changed
+[33m4209712[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33md404ac3[m Changed Login Signup
+[33m92d95f5[m Mergerd
+[33m33df009[m Youtube uploader added
+[33m21ebaf2[m changed in metrics page
+[33m45104a5[m Response changes
+[33m4ec91ef[m Error Name change
+[33mceef77f[m Merge branch 'master' of https://github.com/codingmart-2021-intern/campaign-management-frontend
+[33mff505a0[m Added notification for routes
+[33ma018989[m Merge pull request #8 from codingmart-2021-intern/balaji
+[33m30e731b[m updated metrics table
+[33m3d35294[m Merge branch 'balaji'
+[33mb9d9ba2[m updated metrics table
+[33mc3a04e8[m home ui change
+[33mda4c5e3[m loader change
+[33m6161f66[m Home Page Added
+[33m8642680[m Added Home Page
+[33ma062b30[m Home ui change
+[33ma4a7d6d[m made changes in metrics page
+[33m90ab79e[m changes in metrics page
+[33mb4da44e[m Changes in role assign
+[33m358963f[m Added Live url
+[33m5d0cf4d[m Updated Role assign UI
+[33mb74ffd1[m changed the url
+[33mdd5ed77[m[33m ([m[1;31morigin/rahul[m[33m)[m changes done
+[33m0bab7ee[m solved few bugs in profile page
+[33me10423e[m[33m ([m[1;31morigin/ragavan[m[33m, [m[1;32mragavan[m[33m)[m changes done
+[33mf06fd04[m user profile image added to header
+[33m09c7c5c[m changes done
+[33mae1627d[m changes done
+[33maf2d4b4[m changes done
+[33m4ef74a4[m Added Role assign
+[33m4dcb0af[m added link in header commponent
+[33m99c7d8b[m mobile verification component added
+[33m31e95c2[m added header component
+[33mb872d96[m pull changes done
+[33m557fb91[m added profile page
+[33m71fbc8e[m Merge pull request #6 from codingmart-2021-intern/balaji
+[33md47e1ee[m[33m ([m[1;31morigin/balaji[m[33m)[m Merge branch 'balaji' of https://github.com/codingmart-2021-intern/campaign-management-frontend into balaji
+[33m7fe932d[m Added error notifications
+[33mf462beb[m Merge pull request #5 from codingmart-2021-intern/balaji
+[33m4788bf5[m Merge branch 'master' into balaji
+[33mfe35efe[m Added All pages
+[33mcd673a4[m Changes in header
+[33m78df94d[m Merge pull request #4 from codingmart-2021-intern/balaji
+[33m2a873d3[m intgegrated all components
+[33m39e7fe5[m Updated Signup
+[33m56b7174[m Header , dashboard and Metrices
+[33mf113c1c[m integrated header and dashboard
+[33mb1b4503[m dashboard and header
+[33mef2514c[m[33m ([m[1;31morigin/dinesh_main[m[33m)[m Added Loading for pages
+[33mab94e11[m Added loading
+[33m30de2e6[m Added forgot and reset password front end logic
+[33m476a03f[m Added changes master
+[33m3940efb[m Master branch latest Commit
+[33m10344f2[m Added Protected Routes
+[33m7c8a852[m Signup Auth change
+[33m5b822b2[m Added Auth
+[33m1b1a01c[m Added Auth
+[33m23d4085[m Added Auth
+[33m2a46c4f[m Offer creation and Chart
+[33m45cbe01[m Footer Change
+[33mbae918b[m Footer change
+[33m1f7ec9a[m my changes
+[33m4a59dac[m my changes
+[33mc630cf6[m Added Notification Component
+[33m59fc22e[m Merge pull request #2 from codingmart-2021-intern/balaji
+[33m0ed19df[m Integrated table and header
+[33mc96ac64[m integration 1
+[33md8175b6[m table and header
+[33mef919a4[m Merge pull request #1 from codingmart-2021-intern/dinesh_main
+[33m6e205d9[m Added Login, Signup, Reset, Forgot password Page with validation
+[33m6e10a09[m Added Login and Signup Page
+[33m8d94638[m First Commit
+[33m96b0435[m color added
+[33m4c24671[m First Commit
+[33m532045f[m Initialize project using Create React App

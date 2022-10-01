@@ -1,0 +1,23 @@
+/* Home Page CSS */
+
+.img-container {
+    width: 100rem;
+    border-radius: 2rem;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100%;
+    gap: 4rem;
+}
+
+.grid-3 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem,20rem)) !important;
+}
+
+.campaign-container {
+    background: linear-gradient(125deg,rgb(224, 224, 224) 50%, rgb(203, 31, 112) 50%);
+}

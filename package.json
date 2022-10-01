@@ -1,0 +1,64 @@
+{
+  "name": "campaign-management-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bug-killer": "^4.4.4",
+    "crypto-js": "^4.0.0",
+    "date-fns": "^2.19.0",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.3.0",
+    "google-auth-library": "^6.1.6",
+    "googleapis": "^67.1.1",
+    "lien": "^3.3.1",
+    "node-sass": "^5.0.0",
+    "opn": "^5.5.0",
+    "r-json": "^1.2.10",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.1",
+    "react-csv": "^2.0.3",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "^17.0.1",
+    "react-papaparse": "^3.11.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-table": "^7.6.3",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.0",
+    "youtube-api": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "chart.js": "^2.9.4",
+    "react-chartjs-2": "^2.11.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
